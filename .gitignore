@@ -1,0 +1,5 @@
+.idea
+tmp
+libs/libs-source
+
+*.pyc
